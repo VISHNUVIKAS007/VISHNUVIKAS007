@@ -68,9 +68,9 @@
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- :computer: I'm a Fullstack Developer, currently exploring backend Space
-- :hourglass_flowing_sand: Working with Spring & Spring boot
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: I'm a Fullstack Developer, currently exploring backend space<br>
+- :hourglass_flowing_sand: Working with Spring & Spring boot<br>
+- :rocket: Always ready to collaborate for Dev Experiments<br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
